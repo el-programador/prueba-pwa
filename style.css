@@ -9,7 +9,8 @@ h1 ,h2 {
 div.imgs{
     text-align: center;
 }
-.negro{
+a.negro{
     margin: 20px;
     text-decoration: none;
+    text-align: center;
 }
