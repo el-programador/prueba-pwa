@@ -9,8 +9,22 @@ h1 ,h2 {
 div.imgs{
     text-align: center;
 }
-a.negro{
+img {
+    border-radius: 8px;
+    
+}
+.negro{
+    padding: 8px 15px;
     margin: 20px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #440030;
+    font-weight: bold;
     text-decoration: none;
     text-align: center;
+}
+
+button {
+    font-size: 30px;
+    border-radius: 25px;
 }
